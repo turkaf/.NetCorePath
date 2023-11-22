@@ -1,0 +1,1 @@
+# .NetCorePath for Patkia.dev
